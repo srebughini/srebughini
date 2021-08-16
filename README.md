@@ -1,7 +1,8 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srebughini&show_icons=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srebughini&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&custom_title=Github Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srebughini&layout=compact&count_private=true&theme=gruvbox&langs_count=7" />
 </a></p>
 
 ## Things are only impossible until they are not - *Captain Jean-Luc Picard*
