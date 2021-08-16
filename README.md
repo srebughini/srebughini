@@ -1,10 +1,27 @@
-### Hi there 👋
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srebughini&show_icons=true&theme=gruvbox" />
+</a></p>
+
+## Things are only impossible until they are not - *Captain Jean-Luc Picard*
+
+I am chemical engineer from Italy, who loves coding and Star Trek! I believe that **open source is the perfect way to create something amazing**.  
+I mainly code in **C++** and **Python**, but I like to try and learn different programming languages. I am currently
+working on different open-source projects, mainly related to **model chemical reactors**.
+
+## 🤔 Always looking for help
+
+I think the point of an **open source project** is to have **contributors**. So, I always look for someone that wants to contribute and help me developing something **amazing**. 
+
+
+## 📫 How to reach me?
+- [Twitter](https://twitter.com/asalicode) 
+- [LinkedIn](https://it.linkedin.com/in/stefano-rebughini-4217a484) 
+- [Facebook](https://it-it.facebook.com/pg/ASALIcode/videos/?ref=page_internal)
+- [Reddit](https://www.reddit.com/user/ASALIcode)
 
 <!--
-**srebughini/srebughini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
