@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srebughini&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&custom_title=Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srebughini&show_icons=true&theme=gruvbox&count_private=true&custom_title=Stats"/>
 </a></p>
 
 ## Things are only impossible until they are not - *Captain Jean-Luc Picard*
