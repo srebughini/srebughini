@@ -14,7 +14,6 @@ I think the point of an **open source project** is to have **contributors**. So,
 
 
 ## 📫 How to reach me?
-- [Twitter](https://twitter.com/asalicode) 
 - [LinkedIn](https://it.linkedin.com/in/stefano-rebughini-4217a484) 
 - [Facebook](https://it-it.facebook.com/pg/ASALIcode/videos/?ref=page_internal)
 - [Reddit](https://www.reddit.com/user/ASALIcode)
