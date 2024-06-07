@@ -19,7 +19,7 @@ I think the point of an **open source project** is to have **contributors**. So,
 - [Reddit](https://www.reddit.com/user/ASALIcode)
 
 ## :chart_with_upwards_trend: Something about my repos
-[![Star History Chart](https://api.star-history.com/svg?repos=srebughini/ASALI,srebughini/ASALIPY,srebughini/BEERQ,srebughini/JASALI,srebughini/ASALIX&type=Date)](https://star-history.com/#srebughini/ASALI&srebughini/ASALIPY&srebughini/BEERQ&srebughini/JASALI&srebughini/ASALIX&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=srebughini/ASALI,srebughini/ASALIPY,srebughini/BEERQ,srebughini/JASALI,srebughini/ASALIX,srebughini/BEERPY&type=Date)](https://star-history.com/#srebughini/ASALI&srebughini/ASALIPY&srebughini/BEERQ&srebughini/JASALI&srebughini/ASALIX&srebughini/BEERPY&Date)
 
 <!--
 - 🔭 I’m currently working on ...
